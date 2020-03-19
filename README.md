@@ -241,10 +241,6 @@ Colors in the output can be disabled by setting the
 | _“Special thanks to Ahmet Alp Balkan for creating kubectx, kubens, and kubectl aliases, as these tools made my life better.”_ – [@strebeld](https://medium.com/@strebeld/5-ways-to-enhance-kubectl-ux-97c8893227a) |
 | _“❤️ this shell script @ahmetb wrote to help make switching between kubectl config contexts a breeze.”_ – [@briandanowski](https://twitter.com/briandanowski/status/1085409568165896193) |
 
-> If you liked `kubectx`, you may like my [`kubectl-aliases`](https://github.com/ahmetb/kubectl-aliases) project, too.
-
------
-
 Disclaimer: This is not an official Google product.
 
 
